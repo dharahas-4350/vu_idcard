@@ -1,0 +1,8 @@
+{
+  "name": "Remix CampusID – Digital College ID Card Generator",
+  "description": "Official Vignan ID Card Generator - Create and download verified student ID cards for Day Scholars and Hostelers as PNG or PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
